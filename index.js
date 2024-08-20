@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["📬 Atendimento via Ticket 📬","📬 Atendimento via Ticket 📬"];
+const statusMessages = ["🤖 Bot de Atendimento","🤖 Bot de Atendimento"];
 
 
 let currentIndex = 0;
